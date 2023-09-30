@@ -19,5 +19,5 @@
 
 ## Authors
 
-* **Elisa Pierini** - *Data Scientist* - [Elisa Pierini](https://github.com/eelishh) - **
-* **Giacomo Bellini** - *Software Engineer* - [Giacomo Bellini](https://github.com/GiacomoBelliniStudent) - **
+* **Elisa Pierini** - *Data Scientist* - [Elisa Pierini](https://github.com/eelishh)
+* **Giacomo Bellini** - *Software Engineer* - [Giacomo Bellini](https://github.com/GiacomoBelliniStudent)
